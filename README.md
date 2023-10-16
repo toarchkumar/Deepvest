@@ -65,7 +65,7 @@ The pooled collateral acts as security and is reserved for the following year. I
 The next step is to forecast the earners' potential salary for the following year.
 
 |Potential Earner|Salary Raise|Future Salary|Dividend (50% of Commit)|Dividend Pool|Net Revenue to Potential Earners|
-|--------||--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|--------|
 |Earner 1|3%| $257,500 |5%| $12,875 | $19,187.50|
 |Earner 2|5%| $367,500 |7%| $23,888 | $34,466.25|
 |Earner 3|6%| $212,000 |5%| $9,540 | $13,545.00|
