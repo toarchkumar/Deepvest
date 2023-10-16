@@ -50,7 +50,7 @@ Suppose an earner has a base salary of **$250K** annually. They commit **10%** o
 |Earner 8	 |$310,000 	|17%	 |$52,700 	|13.54%	 |135,355| 
 |Earner 9	 |$232,900 	|5%	 	 |$11,645 	|2.99%	 |29,909| 
 |Earner 10	 |$233,400 	|3%	 	 |$7,002 	|1.80%	 |17,984| 
-|Crowd Token |$2,657,300 	     |15%	    |$389,347|1,000,000|
+|Crowd Token |$2,657,300 	     |15%	    |$389,347||1,000,000|
 
 The base price for each token is calculated to be **$0.39**. With a **+30%** premium markup and a **+5%** service fee, the final token price becomes **$0.53**. 
 
